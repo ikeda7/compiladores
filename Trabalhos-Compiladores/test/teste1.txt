@@ -1,0 +1,4 @@
+var x, y: int;
+var z: string;
+var w: bool;
+
